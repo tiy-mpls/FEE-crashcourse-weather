@@ -1,14 +1,8 @@
 {
   "plugins": [
-    "github",
     "hide-published-with",
     "include-codeblock"
   ],
-  "pluginsConfig": {
-    "github": {
-      "url": "https://github.com/jimthedev/tiy-example-book"
-    }
-  },
   "variables": {
     "tiy": {
       "city": "Minneapolis"
