@@ -6,7 +6,7 @@ Prework is material that ensures you have the basic foundation required for the 
 
 Signup for any accounts that you currently do no have:
 
-1. https://tiyminneapolis-invite.herokuapp.com/ (Slack is our communication tool for this course. Once joined, please practice finding and joining your cohort specific channel.)
+1. https://tiyminneapolis-invite.herokuapp.com/, Slack is our communication tool for this course. Once joined, please practice finding and joining your cohort specific channel.
 2. http://github.com
 3. http://twitter.com
 4. http://medium.com
@@ -17,6 +17,8 @@ There is no commercial software required for the class. We will install a number
 We will also help you install software and setup your machine.
 
 If you're new to a Mac (or old, even), check out https://www.apple.com/support/macbasics/.
+
+Likewise, you will need to become comfortable using Slack. Check out their [getting started guide](https://get.slack.help/hc/en-us/articles/218080037-Getting-started-for-new-users) for more information. 
 
 ## Part 2
 
