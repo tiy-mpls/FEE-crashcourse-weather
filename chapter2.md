@@ -6,10 +6,11 @@ Prework is material that ensures you have the basic foundation required for the 
 
 Signup for any accounts that you currently do no have:
 
-1. http://github.com
-2. http://twitter.com
-3. http://medium.com
-4. http://trello.com (sign-in with your Google account for easier access)
+1. https://tiyminneapolis-invite.herokuapp.com/ (Slack is our communication tool for this course. Once joined, please practice finding and joining your cohort specific channel.)
+2. http://github.com
+3. http://twitter.com
+4. http://medium.com
+5. http://trello.com (sign-in with your Google account for easier access)
 
 There is no commercial software required for the class. We will install a number of tools to be used, such as a code editor and a chat program, but they will all be free and/or open-source. 
 
