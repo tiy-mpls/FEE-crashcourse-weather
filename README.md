@@ -1,9 +1,17 @@
-# Introduction
+# Getting to the crash course
 
-Hello and welcome to the pre-work for The Iron Yard Minneapolis' Denali Cohort.
+The Iron Yard Minneapolis
+Tuesday, May 10, 2016
+5pm - 8pm
 
-Please read and re-read this book until you feel that you understand the expectations that I have of you before the start of the course. You should be spending up to 20 hours per week in the weeks leading up to the course prepping and starting to develop the skills and mindset that are required to be successful in the course.  It is absolutely critical that you have taken steps to prepare yourself so that on day 0 we're ready to move quickly. 
+Location: Smart Factory, 
+[2913 Harriet Ave #104, Minneapolis, MN 55408](https://www.google.com/maps/place/2913+Harriet+Ave+%23104/@44.9496746,-93.2855018,17z/data=!3m1!4b1!4m2!3m1!1s0x87f627891a273a51:0x4447f2e53386bc76)
 
-I look forward to meeting you all and encourage you to reach out with any questions or concerns that you have about the course.
+When you arrive at the location, go to the right hand side of the building (the side with a parking lot). Walk to the far back end of the parking lot. The entrance will be on your left.
 
-Thank you and let's get started!
+![Meeting location diagram](http://i.imgur.com/pDr6Dw1.png)
+
+After 5pm parking is available in the lot at any of the Livefront designated spots. Street parking is also available anywhere on Harriet Avenue S except for on the bridge.
+
+
+![Parking lot diagram](http://imgur.com/9QJlbo6.png)

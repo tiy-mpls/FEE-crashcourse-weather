@@ -1,10 +1,7 @@
 # Summary
 
-* [Introduction](README.md)
-* [Curriculum](chapter1.md)
-* [Pre-work](chapter2.md)
-* [Code School Manifesto](chapter3.md)
-* [Code of Conduct](chapter4.md)
-* [A Successful Career](chapter5.md)
-* [Simple Isn't Easy](chapter6.md)
-* [Extra Curriculum](chapter7.md)
+* [Getting to the crash course](README.md)
+* [Tonight's agenda](chapter1.md)
+* [Going further with TIY](chapter2.md)
+* [Getting started](chapter3.md)
+* [About Me](chapter4.md)

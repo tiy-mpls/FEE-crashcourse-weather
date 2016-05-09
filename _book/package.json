@@ -1,7 +1,7 @@
 {
-  "name": "prework",
+  "name": "fee-crashcourse-weather",
   "version": "1.0.0",
-  "description": "Hello and welcome to the pre-work for The Iron Yard Minneapolis' Denali Cohort.",
+  "description": "Hello and welcome to the HTML, CSS and JavaScript weather crash course.",
   "main": "index.js",
   "dependencies": {
     "gitbook-plugin-hide-published-with": "^1.0.3",
@@ -14,13 +14,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/tiy-mpls-denali/prework.git"
+    "url": "git+https://github.com/tiy-mpls/fee-crashcourse-weather.git"
   },
   "keywords": [],
   "author": "",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/tiy-mpls-denali/prework/issues"
+    "url": "https://github.com/tiy-mpls/fee-crashcourse-weather/issues"
   },
-  "homepage": "https://github.com/tiy-mpls-denali/prework#readme"
+  "homepage": "https://github.com/tiy-mpls/fee-crashcourse-weather#readme"
 }

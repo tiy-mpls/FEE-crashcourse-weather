@@ -1,41 +1,20 @@
-# The Code School Manifesto
+# Getting started
 
-This document serves as a standard to which a code school may adhere. It broadly outlines the philosophy, values, and practices that should be shared by all schools. It reflects the authors' hope that all code schools will become allies in a singular mission to serve, teach, enrich, and support the newcomers to the craft of programming who have put themselves in our charge.
+If you have a chance, please complete the following steps before 
 
-## The Promises
+**What you'll need:**
 
-We promise that our students will always be first and foremost.
+1. Have a web browser. We'll use Chrome, but any browser will do.
+2. [Download and install SublimeText](https://www.sublimetext.com/3).
+3. The crash course materials. See detailed instructions below.
+4. Optionally join the [crash course Slack team](https://crashcourse-invite.herokuapp.com/). Slack lets you chat with your instructor and fellow crashmates.
 
-We promise to accept into our schools only those students for whom the class will be of obvious and likely benefit when measured against the cost in time, finances, and beyond.
+**The crash course materials:**
 
-We promise to set expectations that are reasonable and fair, including workload during the course, qualifications to be gained, and job opportunities following graduation. 
+1. Download the [crash course materials](https://www.dropbox.com/s/tk14ph1pztjn4k4/weather.zip?dl=0) zip file. 
+2. Extract/copy the course materials to a new directory (folder) on your computer.
+3. Navigate to the folder that contains the course materials and open the directory/folder named 'before'. 
+4. Open index.html in your browser. If you have trouble opening index.html, try dragging and dropping the file into an already open browser window.
+5. Once you see a blue screen with white text describing the weather in Minneapolis then you're all set.
 
-We promise to promote neither inflated nor deflated graduation rates, dropout rates, failure rates, job placement rates, graduate salaries, and long-term prospects. 
-
-We promise to make our instructors available to contact by the public, and to make their career experience publicly known.
-
-We promise to provide, within the bounds of privacy requested by individual students, contact information for any student enrolled for any length of time, both past and present.
-
-We promise to work in the open, making students' coursework and projects publicly available.
-
-We promise to protect our students from any employer or organization that would mistreat them or take advantage of their talents.
-
-We promise to require students and staff to sign a detailed code of conduct.
-
-We promise to have zero tolerance for harassment of any kind, as established in the code of conduct.
-
-We promise to create a safe environment for all students and staff. To quote [Lambda Jam's Diversity Policy](http://www.lambdajam.com/policies/), this specifically means creating a safe environment for "people of any gender identity or expression, race, ethnicity, size, nationality, sexual orientation, ability level, neurotype, religion, elder status, family structure, culture, subculture, political opinion, identity, and self-identification."
-
-We promise to collaborate with any school for the benefit of our students, whenever possible.
-
-We promise to offer a legal agreement that protects both our students and our school.
-
-We promise to offer fair and reasonable refund policies to students when either party cannot fulfill their agreement.
-
-We promise to celebrate other schools who are known to follow these guidelines, and to celebrate any student attending a worthy school, even if it is not our own.
-
-We promise to hold ourselves and each other to these standards, to accept redress when due, and to correct ourselves humbly.
-
-If any of the individuals or organizations signed below falter in any of these points, we invite public accountability, and we promise to right our wrongs. 
-
-[*See the current signees on Github*](https://github.com/masondesu/code-school-manifesto)
+If you finish early take a moment to greet others around you. Discuss what brings you to this crash course. What do you hope to learn?
