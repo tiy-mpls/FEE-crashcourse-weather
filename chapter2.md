@@ -1,27 +1,20 @@
-# Going further with TIY
+# Getting started
 
-Crash courses are great at giving you a small taste of the many exciting subjects that we cover in our Front End Engineering course at The Iron Yard.  Here are some of the other topics we cover in the full course:
+If you have a chance, please complete the following steps before 
 
-* Version control
-* JS foundations
-* JS libraries
-* UX Design 
-* Testing
-* Backend basics (APIs, deployment)
-* JS Frameworks (Angular, Ember, or React)
-* Databases - as a service
-* Build tools - automating your process
-* Package managers - don't recreate the wheel
-* On site tours with dev teams
-* Communicating with clients and teams
-* Getting hired
-* ...most imporantly: we'll change the way you think about solving problems.
-* and more.
+**What you'll need:**
 
-**Sound interesting? ** We want to hear from you even if you're unsure if you're ready to enroll.
+1. Have a web browser. We'll use Chrome, but any browser will do.
+2. [Download and install SublimeText](https://www.sublimetext.com/3).
+3. The crash course materials. See detailed instructions below.
+4. Optionally join the [crash course Slack team](https://crashcourse-invite.herokuapp.com/). Slack lets you chat with your instructor and fellow crashmates.
 
-1. Go to [TheIronYard.com](http://TheIronYard.com)
-2. Click the green *Get Started* button.
-3. Tell us about a bit about yourself to start the conversation!
+**The crash course materials:**
 
-For more information on our courses check out [https://www.theironyard.com/locations/minneapolis.html](https://www.theironyard.com/locations/minneapolis.html)
+1. Download the [crash course materials](https://www.dropbox.com/s/tk14ph1pztjn4k4/weather.zip?dl=0) zip file. 
+2. Extract/copy the course materials to a new directory (folder) on your computer.
+3. Navigate to the folder that contains the course materials and open the directory/folder named 'before'. 
+4. Open index.html in your browser. If you have trouble opening index.html, try dragging and dropping the file into an already open browser window.
+5. Once you see a blue screen with white text describing the weather in Minneapolis then you're all set.
+
+If you finish early take a moment to greet others around you. Discuss what brings you to this crash course. What do you hope to learn?

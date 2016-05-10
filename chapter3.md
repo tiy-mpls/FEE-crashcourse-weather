@@ -1,20 +1,19 @@
-# Getting started
+# About me
 
-If you have a chance, please complete the following steps before 
+Hello, my name is Jim Cummins and I'll be your instructor today.
 
-**What you'll need:**
+![Jim Cummins' Headshot](https://gravatar.com/avatar/7ecc752a939f9a5776dbe9007f519103?s=200)
 
-1. Have a web browser. We'll use Chrome, but any browser will do.
-2. [Download and install SublimeText](https://www.sublimetext.com/3).
-3. The crash course materials. See detailed instructions below.
-4. Optionally join the [crash course Slack team](https://crashcourse-invite.herokuapp.com/). Slack lets you chat with your instructor and fellow crashmates.
+Here is a little information about me:
 
-**The crash course materials:**
-
-1. Download the [crash course materials](https://www.dropbox.com/s/tk14ph1pztjn4k4/weather.zip?dl=0) zip file. 
-2. Extract/copy the course materials to a new directory (folder) on your computer.
-3. Navigate to the folder that contains the course materials and open the directory/folder named 'before'. 
-4. Open index.html in your browser. If you have trouble opening index.html, try dragging and dropping the file into an already open browser window.
-5. Once you see a blue screen with white text describing the weather in Minneapolis then you're all set.
-
-If you finish early take a moment to greet others around you. Discuss what brings you to this crash course. What do you hope to learn?
+* FEE Instructor at The Iron Yard
+* Husband and father
+* Cart pusher / corn picker turned developer
+* Author of [Commitizen](https://github.com/commitizen/cz-cli), a tool for improving the work flow of open source developers.
+* Passionate about:
+  * code as a tool for expressing creativity
+  * developer empowerment
+  * developer mental health
+  * downhill skiing
+* [Twitter](https://twitter.com/jimthedev) profile
+* [Github](https://github.com/jimthedev) profile
